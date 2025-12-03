@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# OS system files (Windows + Mac)
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
